@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\..\CLP IHM_2\IHM_CLP_2.mcppi
+Project1=Conversao_AD.mcppi
+[ActiveProject]
+Index=1

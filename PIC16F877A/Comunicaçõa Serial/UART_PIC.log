@@ -1,0 +1,13 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -GC -DL -O11111114 -fo8 -N"D:\danie\Documentos\Proteus     Arduino\MikroC PRO for PIC\Sketchs PICs\Comunicaçõa Serial\UART_PIC.mcppi" -SP"D:\MikroC for PIC\mikroC PRO for PIC\Defs\" -SP"D:\MikroC for PIC\mikroC PRO for PIC\Uses\P16\" -SP"D:\danie\Documentos\Proteus     Arduino\MikroC PRO for PIC\Sketchs PICs\Comunicaçõa Serial\" -IP"D:\MikroC for PIC\mikroC PRO for PIC\Uses\P16\" -IP"D:\danie\Documentos\Proteus     Arduino\MikroC PRO for PIC\Sketchs PICs\Comunicaçõa Serial\" "UART_PIC.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	uart.h
+diagnostics: 14	123	Compiled Successfully	UART_PIC.c
+hint: 48	1164	Variable 'error' has been eliminated by optimizer	UART_PIC.c
+diagnostics: 0	127	All files Compiled in 63 ms	 
+hint: 0	1144	Used RAM (bytes): 7 (2%)  Free RAM (bytes): 345 (98%)	Used RAM (bytes): 7 (2%)  Free RAM (bytes): 345 (98%)
+hint: 0	1144	Used ROM (program words): 749 (9%)  Free ROM (program words): 7443 (91%)	Used ROM (program words): 749 (9%)  Free ROM (program words): 7443 (91%)
+diagnostics: 0	125	Project Linked Successfully	UART_PIC.mcppi
+hint: 0	1004	COFF file successfully generated	COFF file successfully generated
+diagnostics: 0	128	Linked in 109 ms	 
+diagnostics: 0	129	Project 'UART_PIC.mcppi' completed: 187 ms	 
+diagnostics: 0	103	Finished successfully: 04 ago 2021, 13:23:46	UART_PIC.mcppi

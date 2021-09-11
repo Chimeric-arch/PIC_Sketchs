@@ -1,0 +1,10 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -GC -DL -O11111114 -fo8 -N"D:\danie\Documentos\Proteus     Arduino\MikroC PRO for PIC\Sketchs PICs\PIC16F877A\SoftwareProtocol\SoftwareProtocol.mcppi" -SP"D:\MikroC for PIC\mikroC PRO for PIC\Defs\" -SP"D:\MikroC for PIC\mikroC PRO for PIC\Uses\P16\" -SP"D:\danie\Documentos\Proteus     Arduino\MikroC PRO for PIC\Sketchs PICs\PIC16F877A\SoftwareProtocol\" -IP"D:\MikroC for PIC\mikroC PRO for PIC\Uses\P16\" -IP"D:\danie\Documentos\Proteus     Arduino\MikroC PRO for PIC\Sketchs PICs\PIC16F877A\SoftwareProtocol\" "SoftwareProtocol.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	SoftwareProtocol.c
+error: 108	324	Undeclared identifier 'byte' in expression	SoftwareProtocol.c
+error: 108	315	Invalid expression	SoftwareProtocol.c
+error: 108	300	Syntax Error: ')' expected,  but 'bit' found	SoftwareProtocol.c
+error: 108	402	; expected, but ')' found	SoftwareProtocol.c
+error: 109	424	'}' expected ';' found	SoftwareProtocol.c
+warning: 110	1503	Result is not defined in function: 'readData'	SoftwareProtocol.c
+error: 0	102	Finished (with errors): 07 ago 2021, 17:58:39	SoftwareProtocol.mcppi

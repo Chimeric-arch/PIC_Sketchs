@@ -1,0 +1,3 @@
+main
+	reg_config
+interrupt

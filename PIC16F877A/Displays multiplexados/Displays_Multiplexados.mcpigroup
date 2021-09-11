@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\Conversão AD\Conversao_AD.mcppi
+Project1=Displays_Multiplexados.mcppi
+[ActiveProject]
+Index=1
